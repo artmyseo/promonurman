@@ -88,11 +88,11 @@
         <div class="team">
           <div class="row">
             <div class="col-md-4">
-              <div class="eqiup-player">
+              <div class="card">
                 <img
                   src="img/line1.png"
                   alt="Thumbnail Image"
-                  class="rounded img-fluid img-raised"
+                  class="rounded img-fluid"
                 />
                 <h4 class="title">Линии для переработки твердых отходов пластиков </h4>
                 <p class="blockquote blockquote-primary">(Сырье для линии: Ящики, канистры, вёдра, бочки, поддоны и т.п.)</p>
@@ -105,11 +105,11 @@
               </div>
             </div>
             <div class="col-md-4">
-              <div class="eqiup-player">
+              <div class="card">
                 <img
                   src="img/line2.png"
                   alt="Thumbnail Image"
-                  class="rounded img-fluid img-raised"
+                  class="rounded img-fluid"
                 />
                 <h4 class="title">Линии для переработки отходов ПЭТ</h4>
                 <p class="blockquote blockquote-primary">(Сырье для линии: ПЭТ-бутылка, ПЭТ-кега, бутыли для кулеров, баклажки из-под воды и т.п.)</p>
@@ -121,11 +121,11 @@
               </div>
             </div>
             <div class="col-md-4">
-              <div class="eqiup-player">
+              <div class="card">
                 <img
                   src="img/line3.png"
                   alt="Thumbnail Image"
-                  class="rounded img-fluid img-raised"
+                  class="rounded img-fluid"
                 />
                 <h4 class="title">Линия для переработки плёночных и нитевидных отходов пластмасс </h4>
                 <p class="blockquote blockquote-primary">(Сырье для линии: Биг-бэги, полипропиленовые мешки, бытовые пакеты, укрывные и упаковочные пленки и т.п.)</p>
@@ -189,7 +189,7 @@
 <script>
 import { Button, FormGroupInput } from '@/components';
 import NucleoIconsSection from './components/NucleoIconsSection';
-import CarouselSection from './components/CarouselSection';
+import CarouselSection from './components/FotoSection';
 export default {
   name: 'landing',
   bodyClass: 'landing-page',

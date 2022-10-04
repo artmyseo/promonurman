@@ -33,7 +33,7 @@
           href="https://nur-man.ru/catalog/agregatyi/"
           target="_blank"
         >
-          <i class="now-ui-icons arrows-1_cloud-download-93"></i>
+          <i class="now-ui-icons design_bullet-list-67"></i>
           <p>Оборудование</p>
         </a>
       </li>
@@ -43,7 +43,7 @@
           href="https://nur-man.ru/linii-dlya-pererabotki/"
           target="_blank"
         >
-          <i class="now-ui-icons arrows-1_cloud-download-93"></i>
+          <i class="now-ui-icons design_app"></i>
           <p>Линии</p>
         </a>
       </li>
@@ -53,7 +53,7 @@
           href="https://nur-man.ru/biznes-plan/"
           target="_blank"
         >
-          <i class="now-ui-icons arrows-1_cloud-download-93"></i>
+        <i class="now-ui-icons business_money-coins"></i>
           <p>Бизнес-план</p>
         </a>
       </li>
