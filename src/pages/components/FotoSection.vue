@@ -6,16 +6,16 @@
       </div>
       <div class="row justify-content-center">
 
-            <div class="col-md-3 col-xs-12">
+            <div class="col-md-3 col-xs-12 text-center mb-2">
               <img class="rounded img-fluid img-raised" src="img/gallery/10127-WA0007.jpg" alt="First slide" />
             </div>
-            <div class="col-md-3 col-xs-12">
+            <div class="col-md-3 col-xs-12 text-center mb-2">
               <img class="rounded img-fluid img-raised" src="img/gallery/20180817_110208.jpg" alt="Second slide" />
             </div>
-             <div class="col-md-3 col-xs-12">
+             <div class="col-md-3 col-xs-12 text-center mb-2">
               <img class="rounded img-fluid img-raised" src="img/gallery/20181123_120150.jpg" alt="Third slide" />
             </div>
-            <div class="col-md-3 col-xs-12">
+            <div class="col-md-3 col-xs-12 text-center mb-2">
               <img class="rounded img-fluid img-raised" src="img/gallery/20190805_180147.jpg" alt="4 slide" />
             </div>
 
